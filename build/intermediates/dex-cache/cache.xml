@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\takendarkk\AndroidStudioProjects\ReticleClient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bebf944148a20c827939e5feb7fc5a103c5c6c8d">
+        <dex dex="C:\Users\takendarkk\AndroidStudioProjects\ReticleClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_316067eec5e586c9b1840c21036f5a9aabc7a5d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\takendarkk\AndroidStudioProjects\ReticleClient\app\libs\bluecove-emu-2.1.1-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb1df1a6724971eae56381433e516f3c408f1ab2">
+        <dex dex="C:\Users\takendarkk\AndroidStudioProjects\ReticleClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\bluecove-emu-2.1.1-SNAPSHOT_f820dd76b34933c0b4f88eeea49d25399c596d23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\takendarkk\AndroidStudioProjects\ReticleClient\app\libs\bluecove-gpl-2.1.1-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0475ef1c617b504051e12d5f99e1614f4e79ddc3">
+        <dex dex="C:\Users\takendarkk\AndroidStudioProjects\ReticleClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\bluecove-gpl-2.1.1-SNAPSHOT_a943bec9a32cf05852715a12bc811ef109ef0fc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\takendarkk\AndroidStudioProjects\ReticleClient\app\libs\bluecove-2.1.1-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="287aecb08680fcd303b986d9aec95eaf859f0c59">
+        <dex dex="C:\Users\takendarkk\AndroidStudioProjects\ReticleClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\bluecove-2.1.1-SNAPSHOT_af40d6b46eadcd56367f2d769be75916b91edf88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\takendarkk\AndroidStudioProjects\ReticleClient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0141cc6a9b5898d33f9fd9b4c3230de9d4418576">
+        <dex dex="C:\Users\takendarkk\AndroidStudioProjects\ReticleClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2a1cee6c05eaf09ad56e410730df6aea2b146b23\classes.dex" />
+    </item>
+
+</items>
